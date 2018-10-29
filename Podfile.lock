@@ -1,0 +1,20 @@
+PODS:
+  - NightView (1.0.1)
+  - Shiny (1.1.2)
+
+DEPENDENCIES:
+  - NightView
+  - Shiny
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - NightView
+    - Shiny
+
+SPEC CHECKSUMS:
+  NightView: ef5d553fc9238013cedb911e2df317e89ab61704
+  Shiny: 3b64b238cd5277ceba20f619ba1340df168571a6
+
+PODFILE CHECKSUM: df5e6efda5cd96dcd3b17b3c0cb764f664b976a1
+
+COCOAPODS: 1.5.0
